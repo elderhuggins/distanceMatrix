@@ -1,5 +1,5 @@
 # distanceMatrix
-The first thing you should do is create a file named "local_host.py" in the folder that contains the distanceMatrix folder. The local_host.py file should have code that instantiate your working paths, for example:
+The first thing you should do is create a file named "local_host.py" in the folder that contains the distanceMatrix folder. The local_host.py file should have code that instantiates your working paths, for example:
 
 ```
 data_dir = "_data"
